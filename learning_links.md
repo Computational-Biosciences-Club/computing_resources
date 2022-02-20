@@ -3,6 +3,12 @@
 - Incredible list of resources from Tommy Tang: https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources
 - Lot of great gists from Stephen Turner: https://gist.github.com/stephenturner
 
+## HPC
+- Longleaf getting started: https://its.unc.edu/research-computing/techdocs/getting-started-on-longleaf
+- Longleaf technical docs: https://its.unc.edu/research-computing/techdocs/
+- SLURM array job spec: https://slurm.schedmd.com/job_array.html
+- IU has an excellent knowledge base of a lot of HPC and related topics: https://kb.iu.edu/d/awrz
+
 ## Git and Github
 - Goes from the basics, mostly focused on R: https://happygitwithr.com
 
