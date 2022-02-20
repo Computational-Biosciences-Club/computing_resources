@@ -10,6 +10,7 @@ Software Carpentry has a ton of great lessons for a variety of topics: https://s
 - Longleaf technical docs: https://its.unc.edu/research-computing/techdocs/
 - SLURM array job spec: https://slurm.schedmd.com/job_array.html
 - IU has an excellent knowledge base of a lot of HPC and related topics: https://kb.iu.edu/d/awrz
+- SLURM cheat sheet: https://slurm.schedmd.com/pdfs/summary.pdf
 
 ## Git and Github
 - Software Carpentry for Git: https://swcarpentry.github.io/git-novice/
