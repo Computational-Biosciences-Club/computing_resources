@@ -28,6 +28,7 @@ Software Carpentry has a ton of great lessons for a variety of topics: https://s
 ## Containerization
 - Software Carpentry Docker: https://carpentries-incubator.github.io/docker-introduction/
 - Software Carpentry Singularity: https://carpentries-incubator.github.io/singularity-introduction/
+- Conda tutorial by me: https://github.com/Lswhiteh/conda-tutorial
 
 ## Databases
 - Very fun and cool way to learn SQL: https://mystery.knightlab.com
