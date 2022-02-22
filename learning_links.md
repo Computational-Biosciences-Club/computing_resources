@@ -21,6 +21,7 @@ Software Carpentry has a ton of great lessons for a variety of topics: https://s
 - Snakemake example: https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html
 - Nextflow: https://www.nextflow.io/docs/latest/index.html
 - Make: http://byronjsmith.com/make-bml/
+- Overview of pipeline tools and comparison of methods: https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/
 
 ## General Compsci
 - Lot of great basics, including shell work and algorithms: https://missing.csail.mit.edu
